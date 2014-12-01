@@ -17,7 +17,7 @@ class Generator:
         # addon list
         addons = os.listdir( "." )
         # final addons text
-        addons_xml = u"<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<addons>\n"
+        addons_xml = u"<?xml version=\"2.1.0\" encoding=\"UTF-8\"?>\n<addons>\n"
         # loop thru and add each addons addon.xml file
         for addon in addons:
             try:
