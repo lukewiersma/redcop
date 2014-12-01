@@ -5,7 +5,7 @@
        version="0.6.9"
        provider-name="BlueCop">
   <requires>
-    <import addon="xbmc.python" version="1.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.0.8"/>
     <import addon="script.module.demjson" version="1.4"/>
     <import addon="script.module.mechanize" version="0.2.5"/>
@@ -28,7 +28,7 @@
        version="0.0.2"
        provider-name="BlueCop">
   <requires>
-    <import addon="xbmc.python" version="1.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.0.8"/>
     <import addon="script.module.demjson" version="1.4"/>
   </requires>
@@ -48,7 +48,7 @@
        version="0.1.1"
        provider-name="BlueCop">
   <requires>
-    <import addon="xbmc.python" version="1.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.0.8"/>
     <import addon="script.module.demjson" version="1.4"/>
     <import addon="script.module.mechanize" version="0.2.5"/>
@@ -70,7 +70,7 @@
        version="0.9.9"
        provider-name="Ksosez,BlueCop">
     <requires>
-        <import addon="xbmc.python" version="1.0"/>
+        <import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.beautifulsoup" version="3.0.8"/>
     	<import addon="script.module.mechanize" version="0.2.5"/>
     	<import addon="script.module.elementtree" version="1.2.7"/>
@@ -92,7 +92,7 @@
        version="0.5.9"
        provider-name="BlueCop">
   <requires>
-    <import addon="xbmc.python" version="1.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.0.8"/>
     <import addon="script.module.demjson" version="1.4"/>
     <import addon="script.module.free.cable.database" version="0.0.3"/>
@@ -114,7 +114,7 @@
        version="3.4.5"
        provider-name="BlueCop">
   <requires>
-    <import addon="xbmc.python" version="1.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.0.8"/>
     <import addon="script.module.elementtree" version="1.2.7"/>
     <import addon="script.module.cryptopy" version="1.2.6"/>
@@ -136,7 +136,7 @@
        version="0.0.6"
        provider-name="BlueCop">
   <requires>
-    <import addon="xbmc.python" version="1.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.0.8"/>
     <import addon="script.module.demjson" version="1.4"/>
   </requires>
@@ -156,7 +156,7 @@
        version="0.1.5"
        provider-name="robla">
   <requires>
-    <import addon="xbmc.python" version="1.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.httplib2" version="0.7.1"/>
   </requires>
   <extension point="xbmc.python.pluginsource"
@@ -175,7 +175,7 @@
        version="0.0.3"
        provider-name="BlueCop">
   <requires>
-    <import addon="xbmc.python" version="1.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.0.8"/>
     <import addon="script.module.demjson" version="1.4"/>
   </requires>
@@ -195,7 +195,7 @@
        version="0.7.3"
        provider-name="BlueCop">
   <requires>
-    <import addon="xbmc.python" version="1.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.0.8"/>
     <import addon="script.module.demjson" version="1.4"/>
     <import addon="script.module.mechanize" version="0.2.5"/>
@@ -216,7 +216,7 @@
        version="0.0.3"
        provider-name="BlueCop">
   <requires>
-    <import addon="xbmc.python" version="1.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.0.8"/>
     <import addon="script.module.demjson" version="1.4"/>
   </requires>
@@ -236,7 +236,7 @@
        version="0.0.3"
        provider-name="BlueCop">
   <requires>
-    <import addon="xbmc.python" version="1.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.0.8"/>
   </requires>
   <extension point="xbmc.python.pluginsource"
@@ -267,7 +267,7 @@
 <addon id="script.hululibraryautoupdate"
     name="Hulu Library Auto Update" version="1.1.2" provider-name="robweber/pkscuot">
   <requires>
-    <import addon="xbmc.python" version="1.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
   </requires>
   <extension point="xbmc.python.script" library="default.py">
     <provides>executable</provides>
@@ -284,7 +284,7 @@
        version="0.0.1"
        provider-name="BlueCop">
   <requires>
-    <import addon="xbmc.python" version="1.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
   </requires>
   <extension point="xbmc.python.module"
              library="lib" />
@@ -298,7 +298,7 @@
        version="0.2"
        provider-name="github.com/pbs/python-coveapi">
   <requires>
-    <import addon="xbmc.python" version="1.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
   </requires>
   <extension point="xbmc.python.module"
              library="lib" />
@@ -312,7 +312,7 @@
        version="1.2.6"
        provider-name="cryptopy.sourceforge.net">
   <requires>
-    <import addon="xbmc.python" version="1.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
   </requires>
   <extension point="xbmc.python.module"
              library="lib" />
@@ -326,7 +326,7 @@
        version="1.4"
        provider-name="deron.meranda.us">
   <requires>
-    <import addon="xbmc.python" version="1.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
   </requires>
   <extension point="xbmc.python.module"
              library="lib" />
@@ -340,7 +340,7 @@
        version="0.0.3"
        provider-name="BlueCop">
   <requires>
-    <import addon="xbmc.python" version="1.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
   </requires>
   <extension point="xbmc.python.module"
              library="lib" />
@@ -368,7 +368,7 @@
        version="2.5"
        provider-name="www.dlitz.net/software/pycrypto/">
   <requires>
-    <import addon="xbmc.python" version="1.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
   </requires>
   <extension point="xbmc.python.module"
              library="lib" />
